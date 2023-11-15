@@ -50,7 +50,7 @@ nav>a{
 }
 
 main{
-    height: 68vh;
+    min-height: 68vh;
 }
 
 
